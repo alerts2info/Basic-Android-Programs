@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Layouts Demo</string>
+
+    <string name="Linear_Layout">Linear Layout Demo</string>
+    <string name="Linear_Layout_Horizontal">Linear Layout (Horizontal)</string>
+    <string name="Linear_Layout_Vertical">Linear Layout (Vertical)</string>
+
+    <string-array name="array_layouts">
+        <item>Select a layout</item>
+        <item>Linear Layout Demo</item>
+        <item>Table Layout</item>
+        <item>Frame Layout</item>
+    </string-array>
+
+</resources>

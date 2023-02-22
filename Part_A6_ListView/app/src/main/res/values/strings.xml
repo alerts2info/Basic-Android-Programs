@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ListView Demo</string>
+    <string name="txt_list">List of Cities</string>
+
+    <string-array name="array_cities">
+        <item>Bangalore</item>
+        <item>Mysore</item>
+        <item>Chitradurga</item>
+        <item>Dharwad</item>
+        <item>Belgum</item>
+        <item>Mangalore</item>
+        <item>Kodagu</item>
+        <item>Hassan</item>
+        <item>REPEATING</item>
+        <item>Bangalore</item>
+        <item>Mysore</item>
+        <item>Chitradurga</item>
+        <item>Dharwad</item>
+        <item>Belgum</item>
+        <item>Mangalore</item>
+        <item>Kodagu</item>
+        <item>Hassan</item>
+    </string-array>
+</resources>

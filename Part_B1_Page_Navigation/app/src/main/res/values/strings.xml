@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Page Navigation demo</string>
+    <string name="txt_First_Page">Welcome to First Page</string>
+    <string name="txt_Second_Page">Welcome to Second Page</string>
+    <string name="txt_Third_Page">Welcome to Third Page</string>
+    <string name="txt_Fourth_Page">Welcome to Fourth Page</string>
+
+    <string name="btn_First_Page">Home Page</string>
+    <string name="btn_Last_Page">Last Page</string>
+    <string name="btn_Next_Page">Next Page</string>
+    <string name="btn_Previous_Page">Previous Page</string>
+</resources>

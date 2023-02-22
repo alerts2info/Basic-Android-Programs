@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageView Demo</string>
+    <string name="center">ScaleType center</string>
+    <string name="center_inside">ScaleType center inside</string>
+    <string name="fit_center">ScaleType fit center</string>
+    <string name="fit_end">ScaleType fit end</string>
+    <string name="fit_start">ScaleType fit start</string>
+</resources>

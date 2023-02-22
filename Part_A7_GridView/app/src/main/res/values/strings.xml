@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GridView demo</string>
+    <integer-array name="emojiImages">
+        <item>@drawable/emoji_a</item>
+        <item>@drawable/emoji_b</item>
+        <item>@drawable/emoji_c</item>
+        <item>@drawable/emoji_d</item>
+        <item>@drawable/emoji_e</item>
+        <item>@drawable/emoji_f</item>
+        <item>@drawable/emoji_g</item>
+        <item>@drawable/emoji_h</item>
+        <item>@drawable/emoji_i</item>
+        <item>@drawable/emoji_j</item>
+    </integer-array>
+
+    <string-array name="emoji_desc">
+        <item>Happy</item>
+        <item>What?</item>
+        <item>Cool</item>
+        <item>Lol</item>
+        <item>Haha</item>
+        <item>Haha</item>
+        <item>Blessing</item>
+        <item>Amazing</item>
+        <item>Good luck</item>
+        <item>All emoji</item>
+    </string-array>
+</resources>
