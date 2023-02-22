@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RadioButton Demo</string>
+    <string name="Title">Personality Check</string>
+    <string name="Name">Name </string>
+    <string name="email">E-mail ID </string>
+    <string name="MoblieNo">Contact No </string>
+
+    <string name="QNo1">1. Select Two Zero Two Four</string>
+    <string name="Q1Op1">0044</string>
+    <string name="Q1Op2">2044</string>
+    <string name="Q1Op3">2024</string>
+    <string name="Q1Op4">0024</string>
+
+    <string name="QNo2">2. _______ I copied this program</string>
+    <string name="Q2Op1">Yes</string>
+    <string name="Q2Op2">No</string>
+    <string name="Q2Op3">Ofcourse</string>
+    <string name="Q2Op4">Definitely</string>
+
+    <string name="QNo3">3. ________ , I am mad</string>
+    <string name="Q3Op1">Yes</string>
+    <string name="Q3Op2">No</string>
+    <string name="Q3Op3">Maybe</string>
+    <string name="Q3Op4">Ofcourse</string>
+
+    <string name="btn_submit">Submit</string>
+    <string name="Welcome2page">Submission successful, We will contact you soon either through mail or phone</string>
+
+</resources>

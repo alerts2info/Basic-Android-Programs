@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Part A1 Textboxes Demo</string>
+
+    <string name="RegForm">Simple Form</string>
+    <string name="Firstname">Enter First Name</string>
+    <string name="Lastname">Enter Last Name</string>
+    <string name="email">Enter e-mail</string>
+    <string name="password">Enter password</string>
+    <string name="PhoneNo">Phone Number</string>
+    <string name="Address">Address</string>
+
+    <string name="PassHint">Enter Password</string>
+    <string name="FNameHint">Enter Name</string>
+    <string name="LNameHint">Enter Last Name</string>
+    <string name="emailHint">Enter email</string>
+    <string name="passwordHint">Enter password</string>
+    <string name="PhoneHint">Mobile No</string>
+    <string name="AddressHint">Enter Address</string>
+
+    <string name="Btn_Reset">Reset</string>
+    <string name="Btn_Submit">Submit</string>
+
+    <string name="RegSuccess">Form Submitted Successfully</string>
+
+</resources>

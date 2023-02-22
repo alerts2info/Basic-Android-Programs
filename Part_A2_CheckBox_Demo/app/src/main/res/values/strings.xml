@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Smart Shopping</string>
+    <string name="title">Smart Shopping to save money</string>
+
+    <string name="chbox1">1st Product</string>
+    <string name="chbox2">2nd Product</string>
+
+    <string name="txtcbQty">Quantity (ml/g/kg)</string>
+    <string name="txtcbprice">Price MRP</string>
+
+    <string name="btn_compare">Compare price per unit</string>
+
+</resources>
